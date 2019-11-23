@@ -1,0 +1,8 @@
+html, body {
+    height: 100%; /*Setting this explicitly is important!*/
+}
+
+body {
+    display: flex;  /*flex superpowers activated!*/
+    flex-direction: column; /*Stack flex-items vertically*/
+}
